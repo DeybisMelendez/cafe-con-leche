@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/coin.wav-a25d1650f07a5bb0c116d9af08dc878b.sample"
+
+[deps]
+
+source_file="res://bodies/cafe_con_leche/coin.wav"
+dest_files=[ "res://.import/coin.wav-a25d1650f07a5bb0c116d9af08dc878b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
