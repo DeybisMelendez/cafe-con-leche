@@ -40,5 +40,6 @@ func coin():
 	$Coin.play()
 
 func kill():
+	Global.cont_deads += 1
 	Global.play_dead()
 	get_tree().reload_current_scene()
